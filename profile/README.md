@@ -4,6 +4,8 @@
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Datasets-yellow)](https://huggingface.co/LiveCompose)
 [![App Store](https://img.shields.io/badge/App_Store-构妙_LiveCapture-blue)](https://apps.apple.com/cn/app/%E6%9E%84%E5%A6%99/id6754213088)
+![Code Size](https://img.shields.io/badge/Code_Size-26k%2B_Lines-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
