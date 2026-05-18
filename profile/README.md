@@ -14,7 +14,7 @@
 | 项目 | 说明 |
 |------|------|
 | [LiveCompose](https://github.com/LiveCompose/LiveCompose) | RL 模型训练、知识蒸馏、CoreML 部署 |
-| [LiveCapture](https://github.com/LiveCompose/) | iOS APP 源码 | 
+| [LiveCapture](https://github.com/LiveCompose/LiveCapture) | iOS APP 源码 | 
 
 ## 技术栈
 
